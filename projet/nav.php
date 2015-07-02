@@ -6,23 +6,8 @@
 		<link href="style.css" rel="stylesheet" type="text/css" media="screen">
 		<link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 	</head>
-	<!-- test merge -->
+
 	<body>
-		<!-- test merge 2 -->
-		<script>
-			function log(data) {
-				console.log(data)
-			}
-
-			function byId(id) {
-				return document.getElementById(id);
-			}
-
-			function init() {
-				log('in');
-			}
-
-		</script>
 		<div class="wrap">
 			<nav>
 				<!-- <div id="logo"><img src="#"></div> -->
