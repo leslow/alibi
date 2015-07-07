@@ -12,7 +12,11 @@
 		function init() {
 
 			$('.member').click(function(){
-			  $('.login-popup').toggle();
+			  $('.login-popup1').toggle();
+			});
+
+			$('.newmember').click(function(){
+			  $('.login-popup2').toggle();
 			});
 
 		}
@@ -33,19 +37,30 @@
 				</div>				
 
 				<div class="avatar">
-					<!-- <img title="My photo" alt="My Photo" src="#"> -->
+					<img title="Ma photo de profil" alt="Avatar" src="assets/jordan-venant.jpg">
 				</div>
 
 				<div class="menu">
 					<p class="sous-menu">Catégories</p>
 				</div>
 
-				<div class="login-popup">
-					<div class="login-box">
+				<div class="login-popup1">
+					<div class="login-box1">
 						<p class="login-titre">Identifiants</p>
 						<input class="login-identifiant" type="text" name="Identifiant" placeholder="Identifiant" title="Identifiant">
 						<input class="login-password" type="password" name="Mot de passe" placeholder="Mot de passe" title="Mot de passe">
-						<input class="login-submit" type="submit" name="se connecter" value="se connecter" title="se connecter">					
+						<input class="login-submit1" type="submit" name="se connecter" value="se connecter" title="se connecter">					
+					</div>
+				</div>
+
+				<div class="login-popup2">
+					<div class="login-box2">
+						<p class="login-titre">Je m'inscris</p>
+						<input class="login-identifiant" type="text" name="Identifiant" placeholder="Choisir mon identifiant" title="Identifiant">
+						<input class="login-password1" type="password" name="Mot de passe" placeholder="Choisir mon mot-de-passe" title="Mot de passe">
+						<input class="login-password2" type="password" name="Confirmation du mot de passe" placeholder="Confirmer mon mot-de-passe" title="Confirmation du mot de passe">
+						<input class="login-submit2" type="submit" name="se connecter" value="c'est partit !" title="se connecter">					
+						<input class="login-fb" type="se connecter via Facebook" name="se connecter via Facebook" value="se connecter avec Facebook" title="se connecter via Facebook">					
 					</div>
 				</div>
 			</nav>
