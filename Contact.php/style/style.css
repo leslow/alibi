@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*                               { margin:0 auto;}
+
+#wrap                           { background-color: #521557;}
+.cadre-violet                   { background-color: #605a65; width: 920px; padding: 40px;}
+
+a 								{ text-decoration:none; color: #f58922;}
+a:hover							{ text-decoration:underline;}
+
+h1                              { font-family: Open Sans; font-size: 1,5em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
+h2                              { font-family: Open Sans; font-size: 1,25em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
+h3                              { font-family: Open Sans; font-size: 1em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
+p                               { font-family: Open Sans; font-size: 0.875em; font-style: normal; font-variant: normal; font-weight: 400; color: #fff;}
+.espace1                        { margin-top: 20px;}
+.espace2                        { margin-top: 10px;}
+
+
+#content-contact                {text-align: center; padding: 3% 0 3% 0;}
+
+input[type="text"]				{ width:40%; height:35px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border: solid 1px #ccc; padding:5px; background-color:#fff; margin-bottom:20px;}
+
+input[type="text"]:hover, textarea:hover			{ background-color:#fff; }
+
+textarea						{ width:40%; height:150px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border: solid 1px #ccc; padding:5px; background-color:#fff; margin-bottom:20px;}
+
+#message                        { color: #000;}
+
+input[type="submit"], input[type="button"]				{ height:45px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border:0; padding:5px; background-color:#f58922; color:#fff; cursor:pointer;}
+
+input[type="submit"]:hover				{ background-color:#000}
+
+@media screen and (max-width: 920px) {
+    
+.cadre-violet                   { width: 80%;}
+input[type="text"]				{ width: 80%;}
+textarea						{ width: 80%;}  
+    
+}
