@@ -4,7 +4,23 @@
 *   { margin:0 auto;}
 
 body {background:#333333;}
-#wrap   { width: 960px; height: 950px; background-color: #333333; margin-top:120px;}
+#wrap   { width: 960px; height: 860px; background-color: #333333; margin-top:120px;}
+
+a 								{ text-decoration:none; color: #f58922;}
+a:hover							{ text-decoration:underline;}
+
+h1                              { font-family: Open Sans; font-size: 1.5em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
+h2                              { font-family: Open Sans; font-size: 1.25em; font-style: normal; font-variant: normal; font-weight: 300; color: #fff;}
+h3                              { font-family: Open Sans; font-size: 0.875em; font-style: normal; font-variant: normal; font-weight: 700; color: #000;}
+h4                              { font-family: Lobster; font-size: 1.8em; font-style: normal; font-variant: normal; font-weight: 400; color: #fff;}
+p                               { font-family: Open Sans; font-size: 0.875em; font-style: normal; font-variant: normal; font-weight: 400; color: #000;}
+
+
+.espace0                        { margin-top: 60px;}
+.espace1                        { margin-top: 20px;}
+.espace2                        { margin-top: 10px;}
+
+.kurva { font-family: Coustard; font-size: 2.5em; font-style: normal; font-variant: normal; font-weight: 700; color: #000;}
 
 /* Navigation */
 nav {
@@ -239,18 +255,6 @@ nav {
 /* bloc proposition */
 
 .content-proposition   { float: right; width: 310px;}
-
-a 								{ text-decoration:none; color: #f58922;}
-a:hover							{ text-decoration:underline;}
-
-h1                              { font-family: Open Sans; font-size: 1,5em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
-h2                              { font-family: Open Sans; font-size: 1.25em; font-style: normal; font-variant: normal; font-weight: 300; color: #fff;}
-h3                              { font-family: Open Sans; font-size: 0.875em; font-style: normal; font-variant: normal; font-weight: 700; color: #000;}
-p                               { font-family: Open Sans; font-size: 0.875em; font-style: normal; font-variant: normal; font-weight: 400; color: #000;}
-.espace0                        { margin-top: 60px;}
-.espace1                        { margin-top: 20px;}
-.espace2                        { margin-top: 10px;}
-
 
 #post_proposition                { background-color: #fff; padding: 5% 5% 17% 5%;}
 

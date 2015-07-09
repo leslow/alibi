@@ -6,6 +6,8 @@
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
 		<link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+        <link href='http://fonts.googleapis.com/css?family=Coustard' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 		<script type="text/javascript">
@@ -75,13 +77,25 @@
         <div class="espace1"></div>
             <div id="content_bloc">
                 <div class="bloc1">
-                
+                    <div class="content_semaine">
+                        <h4> <span class="kurva">“</span> loremp ipsum dolor sit amet <span class="kurva">"</span></h4>
+                    </div>
+                    <div class="meta_semaine">
+                    </div>
                 </div>
                 <div class="bloc2">
-                
+                    <div class="content_semaine">
+                        <h4> <span class="kurva">“</span> loremp ipsum dolor sit amet <span class="kurva">"</span></h4>
+                    </div>
+                    <div class="meta_semaine">
+                    </div>
                 </div>
                 <div class="bloc3">
-                
+                    <div class="content_semaine">
+                        <h4> <span class="kurva">“</span> loremp ipsum dolor sit amet <span class="kurva">"</span></h4>
+                    </div>
+                    <div class="meta_semaine">
+                    </div>
                 </div>
             </div>
     </div>
@@ -92,16 +106,32 @@
         <div class="espace1"></div>
             <div id="content_bloc_vertical">
                 <div class="bloc_vertical_1">
-                
+                    <div class="content_recent">
+                        <h3> loremp ipsum dolor sit amet </h3>
+                    </div>
+                    <div class="meta_recent">
+                    </div>
                 </div>
                 <div class="bloc_vertical_2">
-                
+                    <div class="content_recent">
+                        <h3> loremp ipsum dolor sit amet </h3>
+                    </div>
+                    <div class="meta_recent">
+                    </div>
                 </div>
                 <div class="bloc_vertical_3">
-                
+                    <div class="content_recent">
+                        <h3> loremp ipsum dolor sit amet </h3>
+                    </div>
+                    <div class="meta_recent">
+                    </div>
                 </div>
                 <div class="bloc_vertical_4">
-                
+                    <div class="content_recent">
+                        <h3> loremp ipsum dolor sit amet </h3>
+                    </div>
+                    <div class="meta_recent">
+                    </div>
                 </div>
             </div>  
      </div>       
