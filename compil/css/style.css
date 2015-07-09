@@ -256,9 +256,9 @@ nav {
 
 .content-proposition   { float: right; width: 310px;}
 
-#post_proposition                { background-color: #fff; padding: 5% 5% 17% 5%;}
+#post_proposition                { background-color: #fff; padding: 5% 5% 8% 5%;}
 
-input[type="text"]				{ width:40%; height:35px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border: solid 1px #ccc; padding:5px; background-color:#fff; margin-bottom:20px;}
+input[type="text"]				{ height:35px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border: solid 1px #ccc; padding:5px; background-color:#fff; margin-bottom:20px;}
 
 input[type="text"]:hover, textarea:hover			{ background-color:#fff; }
 
@@ -267,7 +267,7 @@ textarea						{ width:92%; height:150px; border-radius:5px; -webkit-border-radiu
 #message                        { color: #000;}
 
 input[type="submit"], input[type="button"]				{ height:30px; border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; border:0; 
-     background-color:#f58922; color:#fff; cursor:pointer; float: right;}
+     background-color:#f58922; color:#fff; cursor:pointer; }
 
 input[type="submit"]:hover				{ background-color:#000}
 
