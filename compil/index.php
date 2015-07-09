@@ -67,8 +67,7 @@
 			</nav>
 		</div>
     
-        
-    <div id="bg_fond">
+
         <div id="wrap">
             
     <div id="content_ligne_bloc">
@@ -121,6 +120,6 @@
         </div>
         
     </div>
-    </div>
+
 	</body>
 </html>
