@@ -110,6 +110,12 @@
                         <h3> loremp ipsum dolor sit amet </h3>
                     </div>
                     <div class="meta_recent">
+                        <div class="comment"><p>100 <span class="fa fa-comments-o fa-lg"></span></p></div>
+                        <div class="like"><p>1500 <span class="fa fa-thumbs-up fa-lg"></span></p></div>
+                        <div class="new-comment">
+                        <p><a href="#">+1</a></p>
+                        <div class="rond"></div>
+                        </div>
                     </div>
                 </div>
                 <div class="bloc_vertical_2">
@@ -117,6 +123,12 @@
                         <h3> loremp ipsum dolor sit amet </h3>
                     </div>
                     <div class="meta_recent">
+                        <div class="comment"><p>100 <span class="fa fa-comments-o fa-lg"></span></p></div>
+                        <div class="like"><p>1500 <span class="fa fa-thumbs-up fa-lg"></span></p></div>
+                        <div class="new-comment">
+                        <p><a href="#">+1</a></p>
+                        <div class="rond"></div>
+                        </div>
                     </div>
                 </div>
                 <div class="bloc_vertical_3">
@@ -124,6 +136,12 @@
                         <h3> loremp ipsum dolor sit amet </h3>
                     </div>
                     <div class="meta_recent">
+                        <div class="comment"><p>100 <span class="fa fa-comments-o fa-lg"></span></p></div>
+                        <div class="like"><p>1500 <span class="fa fa-thumbs-up fa-lg"></span></p></div>
+                        <div class="new-comment">
+                        <p><a href="#">+1</a></p>
+                        <div class="rond"></div>
+                        </div>
                     </div>
                 </div>
                 <div class="bloc_vertical_4">
@@ -131,6 +149,12 @@
                         <h3> loremp ipsum dolor sit amet </h3>
                     </div>
                     <div class="meta_recent">
+                        <div class="comment"><p>100 <span class="fa fa-comments-o fa-lg"></span></p></div>
+                        <div class="like"><p>1500 <span class="fa fa-thumbs-up fa-lg"></span></p></div>
+                        <div class="new-comment">
+                        <p><a href="#">+1</a></p>
+                        <div class="rond"></div>
+                        </div>
                     </div>
                 </div>
             </div>  

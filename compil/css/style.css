@@ -6,7 +6,7 @@
 body {background:#333333;}
 #wrap   { width: 960px; height: 860px; background-color: #333333; margin-top:120px;}
 
-a 								{ text-decoration:none; color: #f58922;}
+a 								{ text-decoration:none; color: #fff;}
 a:hover							{ text-decoration:underline;}
 
 h1                              { font-family: Open Sans; font-size: 1.5em; font-style: normal; font-variant: normal; font-weight: 500; color: #fff;}
@@ -246,9 +246,46 @@ nav {
 
 /* bloc + recents */
 
-#content_vertical_bloc { width:630px; float: left }
-.bloc_vertical_1 { float:left; width:630px; height: 83px; background-color: #fff; }
-.bloc_vertical_2, .bloc_vertical_3, .bloc_vertical_4 { float:left; margin-top: 10px; width:630px; height: 83px; background-color: #fff; }
+#content_vertical_bloc { width:630px; float: left; }
+.bloc_vertical_1 { float:left; width:630px; height: 83px; background-color: #fff; position: relative; }
+.bloc_vertical_2, .bloc_vertical_3, .bloc_vertical_4 { float:left; margin-top: 10px; width:630px; height: 83px; background-color: #fff; position: relative; }
+
+.comment{
+    float: left;
+
+}
+
+
+.like{
+    float: left;
+
+}
+
+.new-comment{
+    margin: 7px 0 0 15px;
+    float: left;
+    width: 28px;
+    height: 28px;
+    border-radius: 5px;
+    background: #f58922;
+
+}
+
+.new-comment p {
+    color: #ffffff;
+    margin: 4px;
+    padding: 2px;
+
+}
+
+.meta_recent{
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+    color: #f58922;
+    float: right;
+
+}
 
 /* fin + recents */
 
